@@ -56,4 +56,6 @@
 
 [Outputs]
   exodus = true # Output Exodus format
+  perf_graph = true # prints a performance report to the terminal
+
 []
